@@ -8,7 +8,7 @@ import './App.css'
 function App() {
 
   return (
-    <div className="App" style={{ backgroundImage: `url(${NewYear})` }}>
+    <div className="app" style={{ backgroundImage: `url(${NewYear})` }}>
       <div className='container'>
         <Title title='Contagem regressiva para 2023' />
         <div className="countdownContainer">
